@@ -23,6 +23,7 @@ Experience the website live here: [E-Commerce Website](https://shauryaverma03.gi
 
 ## Installation
 
+```bash
 # Clone the repository:
 git clone https://github.com/Mukesh8248/E-Commerce-Website.git
 
