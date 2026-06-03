@@ -39,9 +39,9 @@ I’d love to hear your feedback and suggestions to improve this project further
 
 ## Connect with Me
 
-**LinkedIn:** [Shaurya Verma](https://www.linkedin.com/in/shaurya47/)
+**LinkedIn:** [Mukesh P](https://www.linkedin.com/in/mukesh-p-312ab625b/)
 
-**GitHub:** [shauryaverma03](https://github.com/shauryaverma03)
+**GitHub:** [Mukesh8248](https://github.com/Mukesh8248)
 
 ## 
 
