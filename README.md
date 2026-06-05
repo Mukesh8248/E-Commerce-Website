@@ -45,12 +45,3 @@ I’d love to hear your feedback and suggestions to improve this project further
 
 ## 
 
-## ☕ Support Me  
-
-If you enjoy my work, consider buying me a coffee! Your support keeps me going.  
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/shauryaverh" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200">
-  </a>
-</p>
