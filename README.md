@@ -19,7 +19,7 @@ This is a web-based platform designed to deliver an interactive and user-friendl
 
 ## Live Demo
 
-Experience the website live here: [E-Commerce Website](https://shauryaverma03.github.io/E-Commerce-Website/)
+Experience the website live here: [E-Commerce Website](https://mukesh8248.github.io/E-Commerce-Website/)]
 
 ## Installation
 
